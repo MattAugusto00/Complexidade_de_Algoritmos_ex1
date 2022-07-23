@@ -32,7 +32,6 @@ global_1=0
 
 
 ##  Insertion Sort
-<p>
 def insertionSort(A):
   for j in range(1, len(A)):
     chave=A[j]
@@ -43,7 +42,6 @@ def insertionSort(A):
       A[i+1]=aux
       i-=1
   return A
-  </p>
 ##  Merge Sort
 
 def mergeSort(A):
