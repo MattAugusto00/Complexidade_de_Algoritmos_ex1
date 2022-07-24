@@ -14,5 +14,5 @@ HeapSort: Θ(n∗logn) para pior, melhor e caso medio.
 
 As implementações, comparações e gráficos estão no Colab
 
-2.QuickSort: pior caso=O(n^2), caso medio=O(n log n), melhor caso = O(n log n)
+2.QuickSort: pior caso=O(n^2), caso medio=O(n log n), melhor caso = O(n log n).
 Usando o pivotamento aleatório, melhoramos a complexidade de tempo esperada ou média para O (N log N). A complexidade do pior caso ainda é O (N ^ 2).
